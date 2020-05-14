@@ -1,2 +1,10 @@
-# django-restapi-example
-Learning about Django RESTful APIs
+##Django REST API with Docker
+
+### Getting started
+
+```bash
+    git clone
+    docker-compose build
+    docker-compose up -d
+    docker-compose down
+```
